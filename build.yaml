@@ -1,9 +1,0 @@
-features:
-    - feature1
-    - feature2
-mysql:
-    host: mysql
-    password: password
-    user: my_user
-site:
-    base_url: 'http://web:8080'
