@@ -1,7 +1,7 @@
 pipeline:
   build-and-push:
     image: plugins/docker
-    repo: phpdrone/saltstack-runner
+    repo: phpdrone/to-yaml-file
     tags:
       - latest
     secrets: [ DOCKER_USERNAME, DOCKER_PASSWORD ]
